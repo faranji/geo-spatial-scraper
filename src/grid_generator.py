@@ -1,4 +1,4 @@
-""" Processes raw city GeoJSON files and subdivides them into coordinate grids. """
+""" Processes raw city GeoJSON files and subdivides them into coordinate grids. Coordinates obtained from geojson.io. """
 import argparse
 
 class GridGenerator:
