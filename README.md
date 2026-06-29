@@ -24,7 +24,7 @@ The system is built on a modular, distributed architecture designed to run entir
 - **Web Scraping / Automation:** Playwright, BeautifulSoup4
 - **Database / Storage:** PostgreSQL (Supabase Client, SQLAlchemy)
 - **Frontend & Mapping:** Streamlit, PyDeck (WebGL Rendering)
-- **Orchestration / Infrastructure:** Distributed Cloud VMs, GitHub Actions Matrix Run
+- **Orchestration / Infrastructure:** Modal Serverless Cloud, Auto-scaling Parallel Workers
 
 ---
 
