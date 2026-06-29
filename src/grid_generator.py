@@ -45,8 +45,8 @@ def subdivide_quadtree(city_polygon, min_lon, min_lat, max_lon, max_lat, valid_g
     # İPUCU 4: BÖLME (Divide)
     # Kutu şehirle kesişiyor ama hala 1 km'den büyük. Onu 4'e bölmeliyiz.
     # Tam merkez noktasını bulmak için 'mid_lon' ve 'mid_lat' değerlerini hesapla.
-    mid_lon = (max_lon - min_lon)/2
-    mid_lat = (max_lat - min_lat)/2
+    mid_lon = (max_lon + min_lon)/2
+    mid_lat = (max_lat + min_lat)/2
 
     ## İPUCU 5: 4 Çeyrek için kendini tekrar çağır!
     
