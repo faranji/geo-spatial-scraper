@@ -1,0 +1,10 @@
+streamlit
+pydeck
+playwright
+beautifulsoup4
+geopandas
+shapely
+supabase
+psycopg2-binary
+sqlalchemy
+pandas

@@ -1,0 +1,334 @@
+Kart sayisi: 32
+
+--- KART 0 ---
+<div class="Nv2PK THOPZb CpccDe" jsaction="mouseover:pane.wfvdle7;mouseout:pane.wfvdle7" role="article">
+ <a aria-label="Deniz Cafe Dondurma Tatlı" class="hfpxzc" href="https://www.google.com/maps/place/Deniz+Cafe+Dondurma+Tatl%C4%B1/data=!4m7!3m6!1s0x14b51faec635e8a5:0x76454e48cf44698a!8m2!3d41.0834285!4d28.0811006!16s%2Fg%2F11njsz4dqd!19sChIJpeg1xq4ftRQRimlEz0hORXY?authuser=0&amp;hl=tr&amp;rclk=1" jsaction="pane.wfvdle7;focus:pane.wfvdle7;blur:pane.wfvdle7;auxclick:pane.wfvdle7;keydown:pane.wfvdle7;clickmod:pane.wfvdle7" jslog="12690;track:click,contextmenu;mutable:true;metadata:WyIwYWhVS0V3ajhxUER2c3J5VkF4VzM2d0lISGNrZ0tmd1E4QmNJQ3lnRyIsbnVsbCwwXQ==">
+  <span class="xxVWCe">
+   Deniz Cafe Dondurma Tatlı
+  </span>
+ </a>
+ <div class="rWbY0d">
+ </div>
+ <div class="bfdHYd Ppzolf OFBs3e">
+  <div class="rgFiGf OyjIsf">
+  </div>
+  <div class="hHbUWd">
+  </div>
+  <div class="rSy5If">
+  </div>
+  <div class="lI9IFe">
+   <div class="y7PRA">
+    <div class="Lui3Od T7Wufd">
+     <div class="Z8fK3b">
+      <div class="OyjIsf">
+      </div>
+      <div class="UaQhfb fontBodyMedium">
+       <div class="NrDZNb">
+        <div class="dIDW9d">
+        </div>
+        <span class="HTCGSb">
+        </span>
+        <div class="qBF1Pd fontHeadlineSmall">
+         Deniz Cafe Dondurma Tatlı
+        </div>
+        <span class="muMOJe">
+        </span>
+       </div>
+       <div class="HAthLd">
+       </div>
+       <div class="W4Efsd">
+        <div class="AJB7ye">
+         <span class="wZrhX">
+         </span>
+         <span class="e4rVHe fontBodyMedium">
+          <span aria-label="5,0 yıldızlı" class="ZkP5Je" role="img">
+           <span aria-hidden="true" class="MW4etd">
+            5,0
+           </span>
+           <div class="QBUL8c">
+           </div>
+           <div class="QBUL8c">
+           </div>
+           <div class="QBUL8c">
+           </div>
+           <div class="QBUL8c">
+           </div>
+           <div class="QBUL8c">
+           </div>
+           <span aria-label="Google Haritalar'daki herkese açık yorumlarla ilgili yasal açıklama hakkında daha fazla bilgi edinin" class="mrURp google-symbols" role="img" style="font-size: 18px;">
+            
+           </span>
+          </span>
+         </span>
+        </div>
+       </div>
+       <div class="W4Efsd">
+        <div class="W4Efsd">
+         <span>
+          <span>
+           Kafe
+          </span>
+         </span>
+         <span>
+          <span aria-hidden="true">
+           ·
+          </span>
+          <span>
+           BÜYÜK ÖNDER ATATÜRK CAD NO:48 A
+          </span>
+         </span>
+        </div>
+        <div class="W4Efsd">
+         <span>
+          <span>
+           <span style="font-weight: 400; color: rgba(159,97,8,1.00);">
+            Kapanmak üzere
+           </span>
+           <span style="font-weight: 400;">
+            · 00:00 · Açılış zamanı: Pzt 10:00
+           </span>
+          </span>
+         </span>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="Rwjeuc">
+   </div>
+   <div class="SpFAAb">
+    <div class="xwpmRb qisNDe" style="width: 84px; height: 84px; margin: 0px;">
+     <div class="FQ2IWe" style="min-width: 84px; min-height: 84px;">
+     </div>
+     <div class="DJSPJd">
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="qty3Ue">
+  </div>
+  <div class="gwQ6lc" jsaction="click:mLt3mc">
+  </div>
+ </div>
+</div>
+
+
+--- KART 1 ---
+<div class="Nv2PK THOPZb CpccDe" jsaction="mouseover:pane.wfvdle9;mouseout:pane.wfvdle9" role="article">
+ <a aria-label="Çinar Cafe &amp; Restoran" class="hfpxzc" href="https://www.google.com/maps/place/%C3%87inar+Cafe+%26+Restoran/data=!4m7!3m6!1s0x14b519b743e4a229:0x31ff21fb214cd645!8m2!3d41.0780039!4d28.0841296!16s%2Fg%2F11krkhg827!19sChIJKaLkQ7cZtRQRRdZMIfsh_zE?authuser=0&amp;hl=tr&amp;rclk=1" jsaction="pane.wfvdle9;focus:pane.wfvdle9;blur:pane.wfvdle9;auxclick:pane.wfvdle9;keydown:pane.wfvdle9;clickmod:pane.wfvdle9" jslog="12690;track:click,contextmenu;mutable:true;metadata:WyIwYWhVS0V3ajhxUER2c3J5VkF4VzM2d0lISGNrZ0tmd1E4QmNJS1NnSCIsbnVsbCwxXQ==">
+  <span class="xxVWCe">
+   Çinar Cafe &amp; Restoran
+  </span>
+ </a>
+ <div class="rWbY0d">
+ </div>
+ <div class="bfdHYd Ppzolf OFBs3e">
+  <div class="rgFiGf OyjIsf">
+  </div>
+  <div class="hHbUWd">
+  </div>
+  <div class="rSy5If">
+  </div>
+  <div class="lI9IFe">
+   <div class="y7PRA">
+    <div class="Lui3Od T7Wufd">
+     <div class="Z8fK3b">
+      <div class="OyjIsf">
+      </div>
+      <div class="UaQhfb fontBodyMedium">
+       <div class="NrDZNb">
+        <div class="dIDW9d">
+        </div>
+        <span class="HTCGSb">
+        </span>
+        <div class="qBF1Pd fontHeadlineSmall">
+         Çinar Cafe &amp; Restoran
+        </div>
+        <span class="muMOJe">
+        </span>
+       </div>
+       <div class="HAthLd">
+       </div>
+       <div class="W4Efsd">
+        <div class="AJB7ye">
+         <span class="wZrhX">
+         </span>
+         <span class="e4rVHe fontBodyMedium">
+          <span aria-label="4,8 yıldızlı" class="ZkP5Je" role="img">
+           <span aria-hidden="true" class="MW4etd">
+            4,8
+           </span>
+           <div class="QBUL8c">
+           </div>
+           <div class="QBUL8c">
+           </div>
+           <div class="QBUL8c">
+           </div>
+           <div class="QBUL8c">
+           </div>
+           <div class="QBUL8c">
+           </div>
+           <span aria-label="Google Haritalar'daki herkese açık yorumlarla ilgili yasal açıklama hakkında daha fazla bilgi edinin" class="mrURp google-symbols" role="img" style="font-size: 18px;">
+            
+           </span>
+          </span>
+         </span>
+        </div>
+       </div>
+       <div class="W4Efsd">
+        <div class="W4Efsd">
+         <span>
+          <span>
+           Restoran
+          </span>
+         </span>
+         <span>
+          <span aria-hidden="true">
+           ·
+          </span>
+          <span>
+           Atatürk Blv. No:112
+          </span>
+         </span>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="Rwjeuc">
+   </div>
+   <div class="SpFAAb">
+    <div class="xwpmRb qisNDe" style="width: 84px; height: 84px; margin: 0px;">
+     <div class="FQ2IWe p0Hhde" style="min-width: 84px; min-height: 84px;">
+      <img aria-hidden="true" decoding="async" src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcE_vd3k0q7fe-qbax7ndeFaS2F2KBZsrmTbZ7z-HVsmuTdRQ93-SgWXv9_BdJhgtGeBb-QgZwsAVzdjgR4Ta_Lx9CsOrCl0YubQMOtgWJlubQwkVn4VcC0lK-WKkcxNx-OAwZ2oYu0W0B=w86-h114-k-no" style="position: absolute; top: 50%; left: 50%; width: 84px; height: 111px; transform: translateY(-50%) translateX(-50%);"/>
+     </div>
+     <div class="DJSPJd">
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="qty3Ue">
+  </div>
+  <div class="gwQ6lc" jsaction="click:mLt3mc">
+  </div>
+ </div>
+</div>
+
+
+--- KART 2 ---
+<div class="Nv2PK THOPZb CpccDe" jsaction="mouseover:pane.wfvdle11;mouseout:pane.wfvdle11" role="article">
+ <a aria-label="Papatya Cafe Çantaköy" class="hfpxzc" href="https://www.google.com/maps/place/Papatya+Cafe+%C3%87antak%C3%B6y/data=!4m7!3m6!1s0x14cac7f56bb34d83:0x29f67f19cd9bf2b!8m2!3d41.0845969!4d28.0804481!16s%2Fg%2F11vqlmt1tw!19sChIJg02za_XHyhQRK7_ZnPFnnwI?authuser=0&amp;hl=tr&amp;rclk=1" jsaction="pane.wfvdle11;focus:pane.wfvdle11;blur:pane.wfvdle11;auxclick:pane.wfvdle11;keydown:pane.wfvdle11;clickmod:pane.wfvdle11" jslog="12690;track:click,contextmenu;mutable:true;metadata:WyIwYWhVS0V3ajhxUER2c3J5VkF4VzM2d0lISGNrZ0tmd1E4QmNJUUNnSSIsbnVsbCwyXQ==">
+  <span class="xxVWCe">
+   Papatya Cafe Çantaköy
+  </span>
+ </a>
+ <div class="rWbY0d">
+ </div>
+ <div class="bfdHYd Ppzolf OFBs3e">
+  <div class="rgFiGf OyjIsf">
+  </div>
+  <div class="hHbUWd">
+  </div>
+  <div class="rSy5If">
+  </div>
+  <div class="lI9IFe">
+   <div class="y7PRA">
+    <div class="Lui3Od T7Wufd">
+     <div class="Z8fK3b">
+      <div class="OyjIsf">
+      </div>
+      <div class="UaQhfb fontBodyMedium">
+       <div class="NrDZNb">
+        <div class="dIDW9d">
+        </div>
+        <span class="HTCGSb">
+        </span>
+        <div class="qBF1Pd fontHeadlineSmall">
+         Papatya Cafe Çantaköy
+        </div>
+        <span class="muMOJe">
+        </span>
+       </div>
+       <div class="HAthLd">
+       </div>
+       <div class="W4Efsd">
+        <div class="AJB7ye">
+         <span class="wZrhX">
+         </span>
+         <span class="e4rVHe fontBodyMedium">
+          <span aria-label="5,0 yıldızlı" class="ZkP5Je" role="img">
+           <span aria-hidden="true" class="MW4etd">
+            5,0
+           </span>
+           <div class="QBUL8c">
+           </div>
+           <div class="QBUL8c">
+           </div>
+           <div class="QBUL8c">
+           </div>
+           <div class="QBUL8c">
+           </div>
+           <div class="QBUL8c">
+           </div>
+           <span aria-label="Google Haritalar'daki herkese açık yorumlarla ilgili yasal açıklama hakkında daha fazla bilgi edinin" class="mrURp google-symbols" role="img" style="font-size: 18px;">
+            
+           </span>
+          </span>
+         </span>
+        </div>
+       </div>
+       <div class="W4Efsd">
+        <div class="W4Efsd">
+         <span>
+          <span>
+           Pastane
+          </span>
+         </span>
+         <span>
+          <span aria-hidden="true">
+           ·
+          </span>
+          <span>
+           Ruşen sokak no1
+          </span>
+         </span>
+        </div>
+        <div class="W4Efsd">
+         <span>
+          <span>
+           <span style="font-weight: 400; color: rgba(211,47,40,1.00);">
+            Kapalı
+           </span>
+           <span style="font-weight: 400;">
+            ⋅ Açılış zamanı: Pzt 08:00
+           </span>
+          </span>
+         </span>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="Rwjeuc">
+   </div>
+   <div class="SpFAAb">
+    <div class="xwpmRb qisNDe" style="width: 84px; height: 84px; margin: 0px;">
+     <div class="FQ2IWe p0Hhde" style="min-width: 84px; min-height: 84px;">
+      <img aria-hidden="true" decoding="async" src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0y45K2KamGEqFT1N7XpN8NiDYDEz2lmkqVjlzbmkllSNWDDH3IsXCDY5ebsl_kZRretAPumze9QZ7GYy1PsLG_iu99Sr6ZKzP6JxUgdhN1w8xOZ7S1FOrTkNGes1zIVnAXbFP=w86-h152-k-no" style="position: absolute; top: 50%; left: 50%; width: 84px; height: 148px; transform: translateY(-50%) translateX(-50%);"/>
+     </div>
+     <div class="DJSPJd">
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="qty3Ue">
+  </div>
+  <div class="gwQ6lc" jsaction="click:mLt3mc">
+  </div>
+ </div>
+</div>
+
+
